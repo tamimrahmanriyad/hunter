@@ -1,0 +1,13 @@
+Visa Fee : 4900 NOK = 49000 BDT
+Flight Fee : 5000 NOK = 50000 BDT
+
+Monthly:
+--------
+Low range home rent: 3000 NOK =30000 BDT
+High range home rent: 5500 NOK = 55000 BDT
+Low range Grocery : 1000 NOK = 10000 BDT
+High range Grocery : 1000-1500 NOK = 15000 BDT
+Bus Ticket : 400 NOK = 4000 BDT
+Mobile Cost : 100 NOK = 1000 BDT
+hair cost : 200 NOK = 2000 BDT
+University cost : 1000 NOK = 10000 BDT
